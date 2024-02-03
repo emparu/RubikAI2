@@ -11,4 +11,4 @@ If the cube is mixed enough, the previous move should be unpredictable, however,
 
 It can be observed that the neural network can infer the previous move better than random even after 15 moves.
 
-
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/emanuelruzak/rubikai2)
